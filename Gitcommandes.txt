@@ -1,0 +1,11 @@
+# Git
+
+Commandes principales 
+
+git status : voir si c’est ok
+
+git add . : ajouter
+
+git commit : sauvegarder
+
+git push : envoyer
